@@ -1,5 +1,8 @@
 # Data collect
 
-The objective is to compile some data sources.
+One compiled with some codes that I post on my linkedln: https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/
+
+coleta_de_dados_compilados.ipynb:
 
 Here you will find how to get data from American Central Bank, Brazilian Central Bank, the National Treasury, and some python libraries.
+
